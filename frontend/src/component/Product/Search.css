@@ -42,3 +42,13 @@
 .searchBox input[type="submit"]:hover{
     background-color: rgb(55,97,214);
 }
+
+@media screen and (max-width: 600px) {
+    .searchBox input[type="submit"]{
+        width: 20%;
+        font-size: 15px;
+    }
+    .searchBox input[type="text"]{
+        font-size: 15px;
+    }
+}

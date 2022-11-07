@@ -196,7 +196,7 @@
 }
 .reviewCardComment {
   color: rgba(0, 0, 0, 0.445);
-  font: 300 0.8vmax cursive;
+  font: 300 0.8vmax arial;
 }
 
 .noReviews {
@@ -300,6 +300,6 @@
     font: 600 3vw "Roboto";
   }
   .reviewCardComment {
-    font: 300 5vw cursive;
+    font: 300 5vw arial;
   }
 }

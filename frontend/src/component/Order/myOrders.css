@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap'); /*'Baloo Bhaijaan 2', cursive */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap'); /*'Baloo Bhaijaan 2', arial */
 
 .myOrdersPage {
     width: 100vw;
@@ -29,7 +29,7 @@
   }
   
   .myOrdersTable div {
-    font: 500 1.1vmax 'Baloo Bhaijaan 2', cursive;
+    font: 500 1.1vmax 'Baloo Bhaijaan 2', arial;
     color: rgba(0, 0, 0, 0.778);
     border: none;
   }

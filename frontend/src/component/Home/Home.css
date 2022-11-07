@@ -14,7 +14,7 @@
   
   .banner > h1 {
     margin: 4vmax;
-    font: 600 2.7vmax "Rampart One", cursive;
+    font: 600 2.7vmax "Rampart One", arial;
   }
   
   .banner > p {
@@ -51,7 +51,7 @@
   
   .homeHeading {
     text-align: center;
-    font-family: "Rampart One", cursive;
+    font-family: "Rampart One", arial;
     font-size: 1.8vmax;
     border-bottom: 2px solid rgba(21, 21, 21, 0.200);
     width: 20vmax;
@@ -145,5 +145,15 @@
     .productCardSpan {
       margin: 0.5vmax;
       font: 300 2vmax "Roboto" !important;
+    }
+
+    .container{
+      display: flex;
+      flex-direction: column;
+      margin-right: 10vmax !important;
+      justify-content: center;
+      align-items: center;
+      min-height: 30vh;
+      margin-left: 0;
     }
   }

@@ -9,3 +9,10 @@
   height: 56px;
   border-radius: 100%;
 }
+
+.menuBurger{
+  width: 1px !important;
+  position: fixed;
+  top: 1vmax;
+  left: 2vmax;
+}

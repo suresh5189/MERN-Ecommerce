@@ -1,6 +1,6 @@
 import React from "react";
 import { ReactNavbar } from "overlay-navbar";
-import  logo  from "../../../images/logo.jpg";
+import  logo  from "../../../images/skull.png";
 import {FaUser} from "react-icons/fa";
 import {FaSearch} from "react-icons/fa";
 import {FaCartArrowDown} from "react-icons/fa";

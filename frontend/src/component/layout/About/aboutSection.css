@@ -29,7 +29,7 @@
 }
 
 .aboutSectionContainer > h1 {
-  font: 400 3.5vmax "Rampart One", cursive;
+  font: 400 3.5vmax "Rampart One", arial;
   color: rgb(71, 91, 157);
   margin: 2vmax;
 }
@@ -57,7 +57,7 @@
 
 .aboutSectionContainer > div > div > p {
   color: rgb(71, 91, 157);
-  font: 100 2.5vmax "Rampart One", cursive;
+  font: 100 2.5vmax "Rampart One", arial;
 }
 
 .aboutSectionContainer > div > div > button {
@@ -77,7 +77,7 @@
 
 .aboutSectionContainer2 > h2 {
   color: rgba(0, 0, 0, 0.623);
-  font: 100 2vmax "Lobster Two", cursive;
+  font: 100 2vmax "Lobster Two", arial;
   margin: 2vmax;
 }
 

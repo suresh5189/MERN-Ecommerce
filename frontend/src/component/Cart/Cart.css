@@ -141,7 +141,7 @@
   @media screen and (max-width: 600px) {
     .cartPage {
       padding: 0;
-      min-height: 60vh;
+      min-height: 77vh;
     }
   
     .cartHeader {
@@ -153,6 +153,7 @@
     .cartContainer {
       width: 100%;
       grid-template-columns: 3fr 1fr 1fr;
+      margin-bottom: 10vmax;
     }
   
     .cartInput {
@@ -160,7 +161,7 @@
     }
   
     .cartInput > button {
-      padding: 1.5vmax;
+      padding: 0.7vmax;
     }
   
     .cartInput > input {
@@ -172,7 +173,7 @@
     .cartSubtotal {
       padding: 1.5vmax;
       height: 20vmax;
-      font: 300 2vmax "Roboto";
+      font: 300 1.6vmax "Roboto";
     }
   
     .cartGrossProfit {
